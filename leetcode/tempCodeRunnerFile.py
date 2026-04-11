@@ -1,0 +1,1 @@
+print(searchInsert(nums, target))
